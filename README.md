@@ -18,7 +18,7 @@
     <img src="https://raw.githubusercontent.com/xuu-2/One-try/master/shinji.jpg" width="200" alt="碇真嗣">  
     他的温柔藏在胆怯里，像未调弦的大提琴。~~我第一眼见到他就知道他值得我付出一切~~
 
-2.  绫波丽 
+2. 绫波丽  
     <img src="https://raw.githubusercontent.com/xuu-2/One-try/master/rei.jpg" width="200" alt="绫波丽">  
     她正学着成为自己，这比任何同步率都惊人。
 
@@ -51,7 +51,6 @@ import numpy as np
 def hello_eva():
     print("さようなら、全てのエヴァンゲリオン
 !")
-    print("人与人心的距离，是最美的命题。")
 
 if __name__ == "__main__":
     hello_eva()
