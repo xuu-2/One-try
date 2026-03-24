@@ -1,6 +1,6 @@
 # 渚薰的自我介绍
 
-<img src="https://img2.baidu.com/it/u=2146504702,263081021&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nagisa_Kaworu_%28NGE%29.png/200px-Nagisa_Kaworu_%28NGE%29.png" width="200">
 
 大家好，我是渚薰，我的身份是第十七使徒·自由天使。以下是我的自我介绍：
 
@@ -19,7 +19,7 @@
 3. 明日香
 
 ## 重要坐标
-住址：[NERV总部](https://zh.wikipedia.org/wiki/新世纪福音战士)
+住址：[NERV总部](https://zh.wikipedia.org/zh-cn/NERV)
 
 ## 日常作息表
 | 时间 | 日常活动 |
