@@ -55,6 +55,5 @@ def hello_eva():
 if __name__ == "__main__":
     hello_eva()
 
-其中执行 hello_eva () 可输出结果：さようなら、全てのエヴァンゲリオン！
-我最喜欢的环境管理工具是 conda
+其中执行 print(np.array([1, 2, 3]) ** 2) 可输出结果。
 我可以在 IDE 上使用我建立的虚拟环境
