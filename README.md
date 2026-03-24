@@ -1,6 +1,6 @@
 # 渚薰的自我介绍
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nagisa_Kaworu_%28NGE%29.png/200px-Nagisa_Kaworu_%28NGE%29.png" width="200">
+<img src="kaworu.jpg" width="200" alt="渚薰">
 
 大家好，我是渚薰，我的身份是第十七使徒·自由天使。以下是我的自我介绍：
 
@@ -16,10 +16,10 @@
 ## 我的好朋友
 1. 碇真嗣
 2. 绫波丽
-3. 明日香
+3. ~~明日香~~
 
 ## 重要坐标
-住址：[NERV总部](https://zh.wikipedia.org/zh-cn/NERV)
+住址：[NERV总部]([https://zh.wikipedia.org/zh-cn/NERV](https://baike.baidu.com/item/NERV/9477016))
 
 ## 日常作息表
 | 时间 | 日常活动 |
