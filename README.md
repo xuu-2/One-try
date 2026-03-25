@@ -60,4 +60,4 @@ if __name__ == "__main__":
 
 我可以在 IDE 上使用我建立的虚拟环境
 
-  <img src="https://cdn.phototourl.com/free/2026-03-25-3d6ac0a8-2e48-4761-b3f8-5be4ff9f8317.png" width="200" alt="任务一">
+  <img src="https://cdn.phototourl.com/free/2026-03-25-3d6ac0a8-2e48-4761-b3f8-5be4ff9f8317.png" width="500" alt="任务一">
