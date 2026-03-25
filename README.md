@@ -57,3 +57,4 @@ if __name__ == "__main__":
 
 其中执行 print(np.array([1, 2, 3]) ** 2) 可输出结果。
 我可以在 IDE 上使用我建立的虚拟环境
+<img src="https://raw.githubusercontent.com/xuu-2/One-try/main/renwu1.png" width="200" alt="任务一">
